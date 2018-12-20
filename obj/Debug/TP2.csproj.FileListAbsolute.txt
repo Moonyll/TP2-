@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Exos\TP2\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Users\Dell\Documents\Exos\TP2\TP2\TP2\bin\Debug\TP2.exe
+C:\Users\Dell\Documents\Exos\TP2\TP2\TP2\bin\Debug\TP2.pdb
+C:\Users\Dell\Documents\Exos\TP2\TP2\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\TP2\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\TP2\TP2\TP2\obj\Debug\TP2.exe
+C:\Users\Dell\Documents\Exos\TP2\TP2\TP2\obj\Debug\TP2.pdb
+F:\La Manu - Developpement Web\TP2\TP2\TP2\bin\Debug\TP2.exe.config
+F:\La Manu - Developpement Web\TP2\TP2\TP2\bin\Debug\TP2.exe
+F:\La Manu - Developpement Web\TP2\TP2\TP2\bin\Debug\TP2.pdb
+F:\La Manu - Developpement Web\TP2\TP2\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+F:\La Manu - Developpement Web\TP2\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+F:\La Manu - Developpement Web\TP2\TP2\TP2\obj\Debug\TP2.exe
+F:\La Manu - Developpement Web\TP2\TP2\TP2\obj\Debug\TP2.pdb
