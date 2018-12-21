@@ -25,7 +25,8 @@ namespace TP2
                 {
                 if (rep < n)
                 {Console.WriteLine("Le chiffre saisi est trop petit, veuillez recommencer...");} // nombre trop petit
-                else
+                    // Console.Clear() permet de réinitialiser la fenêtre console
+                elsei
                 {Console.WriteLine("Le chiffre saisi est trop grand, veuillez recommencer...");} // nombre trop grand
                 }
             essai++; // incrémentation du nombre d'essais
@@ -35,3 +36,5 @@ namespace TP2
         }
     }    
 }
+// Console.ForegroundColor = Console.Color.Black; Console.BackgroundColor = Console.Color.Cyan changer les couleurs !
+// Console.SetCursorPosition(20,1) pour centrer en position 20 et 1 !
